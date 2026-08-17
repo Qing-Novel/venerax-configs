@@ -1,13 +1,13 @@
-# 链接：
+# venerax-configs
+
+Configuration file repository for venera
+
+## 链接：
 ```
 https://raw.githubusercontent.com/Qing-Novel/venerax-configs/main/index.json
 ```
 
-## venerax-configs
-
-Configuration file repository for venera
-
-### Create a new configuration
+## Create a new configuration
 
 1. Download `_template_.js`, `_venera_.js`, put them in the same directory
 2. Rename `_template_.js` to `your_config_name.js`
