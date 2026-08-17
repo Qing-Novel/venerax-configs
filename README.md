@@ -1,4 +1,4 @@
-# venera-configs
+# venerax-configs
 
 Configuration file repository for venera
 
