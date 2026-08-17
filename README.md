@@ -1,3 +1,6 @@
+如何添加
+链接：https://raw.githubusercontent.com/Qing-Novel/venerax-configs/main/index.json
+
 # venerax-configs
 
 Configuration file repository for venera
