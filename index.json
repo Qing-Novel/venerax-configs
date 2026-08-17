@@ -1,0 +1,16 @@
+[
+    {
+        "name": "少年ジャンプ＋",
+        "fileName": "shonen_jump_plus.js",
+        "key": "shonen_jump_plus",
+        "version": "1.1.1"
+        "description": "ai修复，修到修不了为止"
+    },
+    {
+        "name": "カドコミ",
+        "fileName": "comic_walker.js",
+        "key": "comic_walker",
+        "version": "1.0.0"
+        "description": "ai修复，修到修不了为止"
+    }
+]
