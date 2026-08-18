@@ -7,7 +7,7 @@ Configuration file repository for venera
 https://raw.githubusercontent.com/Qing-Novel/venerax-configs/main/index.json
 ```
 
-##镜像链接：
+## 镜像链接：
 ```
 https://raw.6githubusercontent.com/Qing-Novel/venerax-configs/main/index.json
 ```
