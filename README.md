@@ -11,6 +11,9 @@ https://raw.githubusercontent.com/Qing-Novel/venerax-configs/main/index.json
 ```
 https://raw.6githubusercontent.com/Qing-Novel/venerax-configs/main/index.json
 ```
+```
+https://cdn.jsdelivr.net/gh/Qing-Novel/venerax-configs@main/index.json
+```
 
 ## Create a new configuration
 
