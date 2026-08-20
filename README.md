@@ -15,6 +15,9 @@ https://raw.6githubusercontent.com/Qing-Novel/venerax-configs/main/index.json
 https://cdn.jsdelivr.net/gh/Qing-Novel/venerax-configs@main/index.json
 ```
 
+## 注意
+仅用ai修复，如有问题需提供复现视频和日志，如果ai无法修复则作罢。
+
 ## Create a new configuration
 
 1. Download `_template_.js`, `_venera_.js`, put them in the same directory
