@@ -12,5 +12,12 @@
         "key": "comic_walker",
         "version": "1.1.0",
         "description": "ai修复，修到修不了为止"
+    },
+    {
+        "name": "Komiic",
+        "fileName": "komiic.js",
+        "key": "Komiic",
+        "version": "1.0.7",
+        "description": "ai修复，修到修不了为止"
     }
 ]
